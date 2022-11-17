@@ -2,7 +2,7 @@
 
 font-size: 20px;
 position: absolute;
-margin-left: 843px;
+margin-left: 750px;
 font-family: 'Alata', sans-serif;
 
 }
@@ -11,7 +11,7 @@ font-family: 'Alata', sans-serif;
 
 font-size: 20px;
 position: absolute;
-margin-left: 946px;
+margin-left: 850px;
 font-family: 'Alata', sans-serif;
 
 }
@@ -20,7 +20,7 @@ font-family: 'Alata', sans-serif;
 
     font-size: 20px;
     position: absolute;
-    margin-left:1052px;
+    margin-left:950px;
     font-family: 'Alata', sans-serif;
 }
 
@@ -29,7 +29,7 @@ font-family: 'Alata', sans-serif;
 
     font-size: 20px;
     position: absolute;
-    margin-left:1166px;
+    margin-left:1050px;
     font-family: 'Alata', sans-serif;
 }
 
@@ -37,15 +37,15 @@ font-family: 'Alata', sans-serif;
 
 font-size: 20px;
 position: absolute;
-margin-left:1270px;
+margin-left:1150px;
 font-family: 'Alata', sans-serif;
 }
 
 .logoyeyen {
 
 
-    width: 310px;
-    height: 61px;
+    width: 140px;
+    height: 71px;
     margin-top: 32px;
     margin-left: 30px;
 }
@@ -393,3 +393,410 @@ margin-left: 750px;
 margin-top: 20px;
                 
                     }
+
+@media screen and  (max-width:600px) {
+    
+
+    .logoyeyen {
+        width: 110px;
+        height: 60px;
+  margin-left: 0px;
+
+    }
+
+    .home {
+
+        font-size: 10px;
+        position: absolute;
+        margin-left: 175px;
+        font-family: 'Alata', sans-serif;
+        
+        }
+        
+        .about {
+        
+        font-size: 10px;
+        position: absolute;
+        margin-left: 215px;
+        font-family: 'Alata', sans-serif;
+        
+        }
+        
+        .service {
+        
+            font-size: 10px;
+            position: absolute;
+            margin-left:255px;
+            font-family: 'Alata', sans-serif;
+        }
+        
+        .galery {
+        
+        
+            font-size: 10px;
+            position: absolute;
+            margin-left:300px;
+            font-family: 'Alata', sans-serif;
+        }
+        
+        .contact {
+        
+        font-size: 10px;
+        position: absolute;
+        margin-left:340px;
+        font-family: 'Alata', sans-serif;
+        }
+
+        .hr1 {
+
+            width: 370px;
+            margin-right: 100px;
+        }
+
+        .potohomepertama {
+
+            width: 375px;
+            height: 200px;
+            margin-left:0px;
+            margin-top: 0px;
+
+
+        }
+
+
+        
+        .textlorempertama {
+
+
+            font-size: 14px;
+            margin-left: 0px;
+            line-height: 25px;
+            text-align: center;
+            margin-bottom: 50px
+            ;
+        
+        }
+
+
+        .textpernikahan {
+
+            font-size: 20px;
+            text-align: center;
+            font-weight: 100px
+            ;
+            line-height: 23px;
+font-style: normal;
+margin-left: 5px;
+        
+        }
+
+        .anonim {
+
+            font-size: 30px;
+            margin-left: 10px;
+        }
+
+        .hr2 {
+width: 370px;
+margin-top: 50px;
+
+        }
+
+
+        
+  .ourservice {
+font-size: 50px;
+margin-top: 0px;
+margin-left: 0px;
+margin-bottom: 30px;
+
+  }
+
+
+
+  
+  .weddingpoto {
+
+
+    height: 200px;
+    margin-left: 40px;
+    width: 300px;
+    
+      }
+    
+      .intimateeventpoto {
+    
+
+    height: 200px;
+    margin-left: 40px;
+        width: 300px;
+        margin-top: 400px;
+      }
+    
+      .corporateventpoto {
+    
+
+        height: 200px;
+        width: 300px;
+        margin-left: 40px;
+        margin-top: 750px;
+      }
+    
+
+
+.wedding {
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 210px;
+}
+
+
+
+
+.intimateevent {
+position: absolute;
+font-size: 30px;
+margin-top: 600px;
+margin-left: 90px;
+margin-bottom: 0px;
+}
+
+.corporateevent {
+
+    position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 42px;
+text-align: center;
+margin-top: 950px;
+margin-left: 80px;
+}
+
+.weddingbottomtext1 {
+
+    position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+margin-top: 250px;
+margin-left: 80px;
+
+}
+
+.weddingbottomtext2 {
+
+    position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+margin-top: 280px;
+margin-left: 135px;
+
+}
+
+
+.intimateeventbottomtext1 {
+
+
+    position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 10px;
+margin-top: 10px;
+margin-left: 0px;
+
+
+
+}
+
+
+.intimateeventbottomtext2 {
+
+
+font-size: 15px;
+line-height: 0px;
+margin-top: 40px;
+margin-left: 70px;
+
+
+
+}
+
+
+.corporateeventbottomtext1 {
+
+    
+    position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 10px;
+text-align: center;
+margin-top: 1000px;
+margin-left: 70px;
+
+
+
+
+}
+
+.corporateeventbottomtext2 {
+
+    position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+margin-top: 1020px;
+margin-left: 140px;
+
+
+
+}
+
+.hrbottomgalery {
+
+    margin-top:  1200px;
+    margin-bottom: 0px;
+}
+
+.galerybottomtext {
+
+font-family: 'Inter';
+color: #EBA1A1;
+text-align: center;
+font-size: 50px;
+
+}
+
+.potogalery1 {
+
+position: absolute;
+    width: 350px;
+
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.potogalery2 {
+
+    position: absolute;
+        width: 350px;
+
+        margin-left: 10px;
+        margin-top: 500px;
+    }
+
+
+    
+.potogalery3 {
+
+    position: absolute;
+        width: 350px;
+
+        margin-left: 10px;
+        margin-top: 1000px;
+    }
+
+    .hrbottomcontact {
+
+
+margin-top: 1500px;
+
+
+    }
+
+    .contactbottomtext {
+
+        font-family: 'Inter';
+        color: #EBA1A1;
+        text-align: center;
+        font-size: 20px;
+        
+
+    }
+
+    .yeyenmanagement {
+
+
+
+        font-family: 'Alata';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 41px;
+        text-align: center;
+
+    }
+
+    .alamat {
+
+
+
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+
+    }
+
+    .kontak {
+
+
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 24px;
+text-align: center;
+    }
+
+    .instagram {
+
+width: 30px;
+height: 30px;
+position: absolute;
+margin-left: 120px;
+margin-top: 0px;
+
+    }
+
+   
+    .facebook {
+
+width: 30px;
+height: 30px;
+position: absolute;
+margin-left: 170px;
+margin-top: 0px;
+        
+            }
+
+    .youtube {
+
+width: 30px;
+height: 30px;
+position: absolute;
+margin-left: 220px;
+margin-top: 0px;
+                
+                    }
+
+}
